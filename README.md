@@ -17,7 +17,7 @@
 <br />
 
 
-[instagram]: instagram.com/eemre._.ozturk/
+[instagram]: https://www.instagram.com/eemre._.ozturk/
 [linkedin]: linkedin.com/in/emre-öztürk-7947a9169
 [gmail]: mailto:emreeozturk42@gmail.com
 <br />
