@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br />
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀!
+<br />
 - 🔭 I’m currently working on basic frontend and backend techs on udemy, youtube, BTK, patika courses for improve myself.
 - 🌱 I’m currently learning Java, Spring, Hibernate, JDBC, Log4J, Git, HTML-CSS-JS, React, MSSQL, MYSQL, POSTGRESQL, MONGODB and other some fullstack techs.
 - 🤔 I’m looking for help with looking for a job
