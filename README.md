@@ -8,7 +8,7 @@
 - 💬 Ask me about a position for me :) 
 - 😄 Pronouns: just Emre :)
 - ⚡ Fun fact: i love bodybuilding because a healthy mind in a healthy body :)
--->
+<br />
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
