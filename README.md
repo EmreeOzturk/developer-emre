@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀!
 - 🔭 I’m currently working on basic frontend and backend techs on udemy, youtube, BTK, patika courses for improve myself.
-- 🌱 I’m currently learning JAVAEE, HTML-CSS-JS, REACT, MSSQL, MYSQL, POSTGRESQL, MONGODB and other some fullstack techs.
+- 🌱 I’m currently learning Java, Spring, Hibernate, JDBC, Log4J, Git, HTML-CSS-JS, React, MSSQL, MYSQL, POSTGRESQL, MONGODB and other some fullstack techs.
 - 🤔 I’m looking for help with looking for a job
 - 💬 Ask me about a position for me :) 
 - 😄 Pronouns: just Emre :)
