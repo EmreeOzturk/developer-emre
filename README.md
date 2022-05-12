@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 
 - 🔭 I’m currently working on basic frontend and backend techs on udemy, youtube, BTK, patika courses for improve myself.
 - 🌱 I’m currently learning JAVAEE, HTML-CSS-JS, REACT, MSSQL, MYSQL, POSTGRESQL, MONGODB and other some fullstack techs.
