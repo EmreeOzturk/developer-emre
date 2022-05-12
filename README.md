@@ -4,11 +4,11 @@
 <br />
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀!
 <br />
-- 🔭 I’m currently working on basic frontend and backend techs on udemy, youtube, BTK, patika courses for improve myself.
-- 🌱 I’m currently learning Java, Spring, Hibernate, JDBC, Log4J, Git, HTML-CSS-JS, React, MSSQL, MYSQL, POSTGRESQL, MONGODB and other some fullstack techs.
-- 🤔 I’m looking for help with looking for a job
-- 💬 Ask me about a position for me :) 
-- 😄 Pronouns: just Emre :)
+- 🔭 I’m currently working on basic frontend and backend techs on udemy, youtube, BTK, patika courses for improve myself.<br />
+- 🌱 I’m currently learning Java, Spring, Hibernate, JDBC, Log4J, Git, HTML-CSS-JS, React, MSSQL, MYSQL, POSTGRESQL, MONGODB and other some fullstack techs.<br />
+- 🤔 I’m looking for help with looking for a job <br />
+- 💬 Ask me about a position for me :) <br />
+- 😄 Pronouns: just Emre :) <br />
 - ⚡ Fun fact: i love bodybuilding because a healthy mind in a healthy body :)
 <br />
 ### 📩 Connect with me:
